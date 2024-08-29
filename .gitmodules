@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jatanrt/jatanrt.r-universe.dev
 	branch = HEAD
+[submodule "eprscope"]
+	path = eprscope
+	url = https://github.com/jatanrt/eprscope
