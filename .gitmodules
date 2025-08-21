@@ -5,7 +5,3 @@
 [submodule "eprscope"]
 	path = eprscope
 	url = https://github.com/jatanrt/eprscope
-[submodule "icons"]
-	path = icons
-	url = https://github.com/mitchelloharawild/icons
-	registered = false
